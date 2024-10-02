@@ -3,3 +3,5 @@ Finetune AlexNet on the Hymenoptera (bees and ants) dataset from Kaggle.
 
 [cnn-mnist](https://github.com/skjdaniel/mastering-pytorch/blob/master/cnn-mnist.ipynb): 
 Simple CNN using PyTorch for MNIST classification. 
+
+[gcn-citeseer](https://github.com/skjdaniel/mastering-pytorch/blob/master/gcn-citeseer.ipynb): MLP, GCN, and GAT models for CiteSeer node classification using PyTorch Geometric.
